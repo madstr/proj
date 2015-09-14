@@ -1,0 +1,11 @@
+[package]
+name = "crypto"
+version = "0.1.0"
+authors = ["madhu"]
+
+[features]
+with-bench = []
+
+[dependencies]
+rustc-serialize = "0.3"
+rand = "0.3"

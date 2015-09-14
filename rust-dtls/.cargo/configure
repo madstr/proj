@@ -1,0 +1,5 @@
+[target.x86_64-unknown-linux-gnu.foo]
+rustc-link-search = ["/home/madhu/crypto/try/crypto"]
+rustc-link-lib = ["/home/madhu/crypto/try"]
+root = "/home/madhu/crypto/try"
+key = "crypto"
